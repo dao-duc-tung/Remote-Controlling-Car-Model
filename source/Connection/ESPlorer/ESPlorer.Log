@@ -1,0 +1,6430 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-09-21T21:50:16</date>
+  <millis>1442847016260</millis>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:16</date>
+  <millis>1442847016269</millis>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:16</date>
+  <millis>1442847016272</millis>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Snippets (LUA): loading...</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:16</date>
+  <millis>1442847016289</millis>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Snippets (LUA) load: Success.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:16</date>
+  <millis>1442847016872</millis>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:16</date>
+  <millis>1442847016881</millis>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>found last saved serial port COM3</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:16</date>
+  <millis>1442847016886</millis>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:18</date>
+  <millis>1442847018712</millis>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:18</date>
+  <millis>1442847018714</millis>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:18</date>
+  <millis>1442847018715</millis>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:18</date>
+  <millis>1442847018842</millis>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:18</date>
+  <millis>1442847018900</millis>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:19</date>
+  <millis>1442847019186</millis>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:19</date>
+  <millis>1442847019488</millis>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:19</date>
+  <millis>1442847019789</millis>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:20</date>
+  <millis>1442847020090</millis>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:20</date>
+  <millis>1442847020391</millis>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:20</date>
+  <millis>1442847020691</millis>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:20</date>
+  <millis>1442847020992</millis>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:21</date>
+  <millis>1442847021293</millis>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:21</date>
+  <millis>1442847021595</millis>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:21</date>
+  <millis>1442847021896</millis>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:22</date>
+  <millis>1442847022197</millis>
+  <sequence>28</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:22</date>
+  <millis>1442847022497</millis>
+  <sequence>29</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:22</date>
+  <millis>1442847022799</millis>
+  <sequence>30</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:23</date>
+  <millis>1442847023099</millis>
+  <sequence>31</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:23</date>
+  <millis>1442847023399</millis>
+  <sequence>32</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:23</date>
+  <millis>1442847023700</millis>
+  <sequence>33</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:24</date>
+  <millis>1442847024000</millis>
+  <sequence>34</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:24</date>
+  <millis>1442847024301</millis>
+  <sequence>35</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:24</date>
+  <millis>1442847024603</millis>
+  <sequence>36</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:24</date>
+  <millis>1442847024903</millis>
+  <sequence>37</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:25</date>
+  <millis>1442847025205</millis>
+  <sequence>38</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:25</date>
+  <millis>1442847025506</millis>
+  <sequence>39</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:25</date>
+  <millis>1442847025808</millis>
+  <sequence>40</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:26</date>
+  <millis>1442847026109</millis>
+  <sequence>41</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:26</date>
+  <millis>1442847026411</millis>
+  <sequence>42</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:26</date>
+  <millis>1442847026712</millis>
+  <sequence>43</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:27</date>
+  <millis>1442847027014</millis>
+  <sequence>44</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:27</date>
+  <millis>1442847027315</millis>
+  <sequence>45</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:27</date>
+  <millis>1442847027617</millis>
+  <sequence>46</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:27</date>
+  <millis>1442847027917</millis>
+  <sequence>47</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:28</date>
+  <millis>1442847028218</millis>
+  <sequence>48</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:28</date>
+  <millis>1442847028520</millis>
+  <sequence>49</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:28</date>
+  <millis>1442847028821</millis>
+  <sequence>50</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:29</date>
+  <millis>1442847029122</millis>
+  <sequence>51</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:29</date>
+  <millis>1442847029423</millis>
+  <sequence>52</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:29</date>
+  <millis>1442847029723</millis>
+  <sequence>53</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:30</date>
+  <millis>1442847030025</millis>
+  <sequence>54</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:30</date>
+  <millis>1442847030325</millis>
+  <sequence>55</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:30</date>
+  <millis>1442847030627</millis>
+  <sequence>56</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:30</date>
+  <millis>1442847030927</millis>
+  <sequence>57</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:31</date>
+  <millis>1442847031229</millis>
+  <sequence>58</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:31</date>
+  <millis>1442847031530</millis>
+  <sequence>59</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:31</date>
+  <millis>1442847031831</millis>
+  <sequence>60</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:32</date>
+  <millis>1442847032131</millis>
+  <sequence>61</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:32</date>
+  <millis>1442847032433</millis>
+  <sequence>62</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:32</date>
+  <millis>1442847032734</millis>
+  <sequence>63</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:33</date>
+  <millis>1442847033035</millis>
+  <sequence>64</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:33</date>
+  <millis>1442847033337</millis>
+  <sequence>65</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:33</date>
+  <millis>1442847033639</millis>
+  <sequence>66</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:33</date>
+  <millis>1442847033940</millis>
+  <sequence>67</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:34</date>
+  <millis>1442847034242</millis>
+  <sequence>68</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:34</date>
+  <millis>1442847034544</millis>
+  <sequence>69</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:34</date>
+  <millis>1442847034845</millis>
+  <sequence>70</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:35</date>
+  <millis>1442847035145</millis>
+  <sequence>71</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:35</date>
+  <millis>1442847035350</millis>
+  <sequence>72</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:39</date>
+  <millis>1442847039830</millis>
+  <sequence>73</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:39</date>
+  <millis>1442847039831</millis>
+  <sequence>74</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:39</date>
+  <millis>1442847039833</millis>
+  <sequence>75</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:39</date>
+  <millis>1442847039838</millis>
+  <sequence>76</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:39</date>
+  <millis>1442847039852</millis>
+  <sequence>77</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:40</date>
+  <millis>1442847040142</millis>
+  <sequence>78</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:40</date>
+  <millis>1442847040443</millis>
+  <sequence>79</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:40</date>
+  <millis>1442847040744</millis>
+  <sequence>80</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:41</date>
+  <millis>1442847041045</millis>
+  <sequence>81</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:41</date>
+  <millis>1442847041346</millis>
+  <sequence>82</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:41</date>
+  <millis>1442847041647</millis>
+  <sequence>83</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:41</date>
+  <millis>1442847041948</millis>
+  <sequence>84</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:42</date>
+  <millis>1442847042248</millis>
+  <sequence>85</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:42</date>
+  <millis>1442847042549</millis>
+  <sequence>86</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:42</date>
+  <millis>1442847042850</millis>
+  <sequence>87</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:43</date>
+  <millis>1442847043025</millis>
+  <sequence>88</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:45</date>
+  <millis>1442847045838</millis>
+  <sequence>89</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:45</date>
+  <millis>1442847045840</millis>
+  <sequence>90</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:45</date>
+  <millis>1442847045840</millis>
+  <sequence>91</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:45</date>
+  <millis>1442847045846</millis>
+  <sequence>92</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:45</date>
+  <millis>1442847045859</millis>
+  <sequence>93</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:46</date>
+  <millis>1442847046149</millis>
+  <sequence>94</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:46</date>
+  <millis>1442847046450</millis>
+  <sequence>95</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:46</date>
+  <millis>1442847046752</millis>
+  <sequence>96</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:47</date>
+  <millis>1442847047053</millis>
+  <sequence>97</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:47</date>
+  <millis>1442847047354</millis>
+  <sequence>98</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:47</date>
+  <millis>1442847047655</millis>
+  <sequence>99</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:47</date>
+  <millis>1442847047956</millis>
+  <sequence>100</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:48</date>
+  <millis>1442847048257</millis>
+  <sequence>101</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:48</date>
+  <millis>1442847048558</millis>
+  <sequence>102</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:48</date>
+  <millis>1442847048860</millis>
+  <sequence>103</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:49</date>
+  <millis>1442847049162</millis>
+  <sequence>104</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:49</date>
+  <millis>1442847049463</millis>
+  <sequence>105</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:49</date>
+  <millis>1442847049764</millis>
+  <sequence>106</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:50</date>
+  <millis>1442847050066</millis>
+  <sequence>107</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:50</date>
+  <millis>1442847050368</millis>
+  <sequence>108</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:50</date>
+  <millis>1442847050668</millis>
+  <sequence>109</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:50</date>
+  <millis>1442847050969</millis>
+  <sequence>110</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:51</date>
+  <millis>1442847051270</millis>
+  <sequence>111</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:51</date>
+  <millis>1442847051571</millis>
+  <sequence>112</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:51</date>
+  <millis>1442847051872</millis>
+  <sequence>113</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:52</date>
+  <millis>1442847052173</millis>
+  <sequence>114</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:52</date>
+  <millis>1442847052474</millis>
+  <sequence>115</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:52</date>
+  <millis>1442847052774</millis>
+  <sequence>116</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:53</date>
+  <millis>1442847053076</millis>
+  <sequence>117</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:53</date>
+  <millis>1442847053376</millis>
+  <sequence>118</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:53</date>
+  <millis>1442847053678</millis>
+  <sequence>119</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:53</date>
+  <millis>1442847053979</millis>
+  <sequence>120</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:54</date>
+  <millis>1442847054280</millis>
+  <sequence>121</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:54</date>
+  <millis>1442847054581</millis>
+  <sequence>122</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:54</date>
+  <millis>1442847054882</millis>
+  <sequence>123</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:55</date>
+  <millis>1442847055183</millis>
+  <sequence>124</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:55</date>
+  <millis>1442847055483</millis>
+  <sequence>125</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:55</date>
+  <millis>1442847055784</millis>
+  <sequence>126</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:55</date>
+  <millis>1442847055930</millis>
+  <sequence>127</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>jssc.SerialPortException: Port name - COM3; Method name - setEventsMask(); Exception type - Can't set mask.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:55</date>
+  <millis>1442847055932</millis>
+  <sequence>128</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - unknown error.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:56</date>
+  <millis>1442847056314</millis>
+  <sequence>129</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:56</date>
+  <millis>1442847056315</millis>
+  <sequence>130</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:56</date>
+  <millis>1442847056316</millis>
+  <sequence>131</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:56</date>
+  <millis>1442847056322</millis>
+  <sequence>132</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:56</date>
+  <millis>1442847056333</millis>
+  <sequence>133</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:50:56</date>
+  <millis>1442847056415</millis>
+  <sequence>134</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>29</thread>
+  <message>
+Communication with MCU established.</message>
+</record>
+<record>
+  <date>2015-09-21T21:51:08</date>
+  <millis>1442847068742</millis>
+  <sequence>135</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=node.flashid()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:51:22</date>
+  <millis>1442847082694</millis>
+  <sequence>136</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=node.chipid()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:51:38</date>
+  <millis>1442847098710</millis>
+  <sequence>137</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=node.heap()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:52:16</date>
+  <millis>1442847136871</millis>
+  <sequence>138</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=node.info()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:15</date>
+  <millis>1442847195985</millis>
+  <sequence>139</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: chooser selected file:0</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:15</date>
+  <millis>1442847195990</millis>
+  <sequence>140</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Try to load file test100.lua ...</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196002</millis>
+  <sequence>141</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Load file test100.lua: Success, size:3300</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196004</millis>
+  <sequence>142</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>1. packets = 13</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196007</millis>
+  <sequence>143</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>2. packets = 14</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196009</millis>
+  <sequence>144</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 0</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196012</millis>
+  <sequence>145</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196012</millis>
+  <sequence>146</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 1</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196013</millis>
+  <sequence>147</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196015</millis>
+  <sequence>148</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 2</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196017</millis>
+  <sequence>149</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196018</millis>
+  <sequence>150</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 3</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196019</millis>
+  <sequence>151</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196020</millis>
+  <sequence>152</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 4</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196020</millis>
+  <sequence>153</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196021</millis>
+  <sequence>154</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 5</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196022</millis>
+  <sequence>155</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196022</millis>
+  <sequence>156</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 6</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196022</millis>
+  <sequence>157</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196023</millis>
+  <sequence>158</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 7</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196024</millis>
+  <sequence>159</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196025</millis>
+  <sequence>160</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 8</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196025</millis>
+  <sequence>161</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196026</millis>
+  <sequence>162</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 9</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196027</millis>
+  <sequence>163</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196028</millis>
+  <sequence>164</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 10</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196029</millis>
+  <sequence>165</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196030</millis>
+  <sequence>166</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 11</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196034</millis>
+  <sequence>167</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196036</millis>
+  <sequence>168</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 12</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196037</millis>
+  <sequence>169</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196038</millis>
+  <sequence>170</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 13</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196040</millis>
+  <sequence>171</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=50</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196041</millis>
+  <sequence>172</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Total packets prepared=14</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196042</millis>
+  <sequence>173</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sendPackets=14</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196042</millis>
+  <sequence>174</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Starting...</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196051</millis>
+  <sequence>175</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196052</millis>
+  <sequence>176</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Start</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196096</millis>
+  <sequence>177</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _up=function(n,l,ll) local cs = 0 local i = 0 print("&gt;".." ") uart.on("data", l, function(b) i = i + 1 file.open("test100.lua",'a+') file.write(b) file.close() cs=0 for j=1, l do cs = cs + (b:byte(j)*20)%19 end</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196442</millis>
+  <sequence>178</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:          uart.write(0,"~~~CRC-".."START~~~"..cs.."~~~CRC-".."END~~~") if i == n then uart.on("data") end if i == n-1 and ll&gt;0 then _up(1,ll,ll) end end,0) end file.remove("test100.lua")</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:16</date>
+  <millis>1442847196858</millis>
+  <sequence>179</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:_up(14,250,50)</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:17</date>
+  <millis>1442847197408</millis>
+  <sequence>180</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 1/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:17</date>
+  <millis>1442847197746</millis>
+  <sequence>181</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 2/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:18</date>
+  <millis>1442847198085</millis>
+  <sequence>182</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 3/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:18</date>
+  <millis>1442847198425</millis>
+  <sequence>183</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 4/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:18</date>
+  <millis>1442847198765</millis>
+  <sequence>184</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 5/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:19</date>
+  <millis>1442847199104</millis>
+  <sequence>185</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 6/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:19</date>
+  <millis>1442847199444</millis>
+  <sequence>186</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 7/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:19</date>
+  <millis>1442847199864</millis>
+  <sequence>187</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 8/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:20</date>
+  <millis>1442847200203</millis>
+  <sequence>188</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 9/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:20</date>
+  <millis>1442847200542</millis>
+  <sequence>189</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 10/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:20</date>
+  <millis>1442847200883</millis>
+  <sequence>190</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 11/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:21</date>
+  <millis>1442847201222</millis>
+  <sequence>191</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 12/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:21</date>
+  <millis>1442847201561</millis>
+  <sequence>192</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 13/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:21</date>
+  <millis>1442847201739</millis>
+  <sequence>193</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: receiving checksum 14/14 check: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:21</date>
+  <millis>1442847201741</millis>
+  <sequence>194</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>sending:_up=nil</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:21</date>
+  <millis>1442847201751</millis>
+  <sequence>195</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Uploader: Success</message>
+</record>
+<record>
+  <date>2015-09-21T21:53:21</date>
+  <millis>1442847201780</millis>
+  <sequence>196</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>45</thread>
+  <message>Operation done. Duration = 5737 ms</message>
+</record>
+<record>
+  <date>2015-09-21T21:55:58</date>
+  <millis>1442847358987</millis>
+  <sequence>197</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2015-09-21T21:55:59</date>
+  <millis>1442847359439</millis>
+  <sequence>198</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2015-09-21T21:55:59</date>
+  <millis>1442847359441</millis>
+  <sequence>199</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2015-09-21T21:55:59</date>
+  <millis>1442847359442</millis>
+  <sequence>200</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2015-09-21T21:55:59</date>
+  <millis>1442847359446</millis>
+  <sequence>201</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2015-09-21T21:55:59</date>
+  <millis>1442847359458</millis>
+  <sequence>202</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:55:59</date>
+  <millis>1442847359535</millis>
+  <sequence>203</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>49</thread>
+  <message>
+Communication with MCU established.</message>
+</record>
+<record>
+  <date>2015-09-21T21:56:01</date>
+  <millis>1442847361923</millis>
+  <sequence>204</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=node.heap()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:56:02</date>
+  <millis>1442847362862</millis>
+  <sequence>205</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=node.info()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:56:03</date>
+  <millis>1442847363306</millis>
+  <sequence>206</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=node.chipid()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:56:04</date>
+  <millis>1442847364120</millis>
+  <sequence>207</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=node.flashid()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:25</date>
+  <millis>1442847445291</millis>
+  <sequence>208</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Saving new file...</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448027</millis>
+  <sequence>209</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to saving file script1.lua ...</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448029</millis>
+  <sequence>210</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Save file script1.lua: Success.</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448082</millis>
+  <sequence>211</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileSaveESP: Try to save file to ESP...</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448091</millis>
+  <sequence>212</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>DataSender: start "Smart Mode"</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448092</millis>
+  <sequence>213</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileSaveESP: Starting...</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448133</millis>
+  <sequence>214</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:file.remove("script1.lua");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448187</millis>
+  <sequence>215</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:f</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448190</millis>
+  <sequence>216</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:il</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448192</millis>
+  <sequence>217</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:e.</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448193</millis>
+  <sequence>218</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:re</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448196</millis>
+  <sequence>219</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:mov</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448199</millis>
+  <sequence>220</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:e(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448200</millis>
+  <sequence>221</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:"</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448205</millis>
+  <sequence>222</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:scrip</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448209</millis>
+  <sequence>223</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:t1.l</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448211</millis>
+  <sequence>224</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:ua</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448216</millis>
+  <sequence>225</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:");</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448218</millis>
+  <sequence>226</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448229</millis>
+  <sequence>227</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:file.open("script1.lua","w+");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448282</millis>
+  <sequence>228</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448284</millis>
+  <sequence>229</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448361</millis>
+  <sequence>230</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:f</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448364</millis>
+  <sequence>231</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:il</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448366</millis>
+  <sequence>232</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:e.</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448369</millis>
+  <sequence>233</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:op</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448370</millis>
+  <sequence>234</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:en</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448372</millis>
+  <sequence>235</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:("</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448375</millis>
+  <sequence>236</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:scr</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448377</millis>
+  <sequence>237</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:ip</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448381</millis>
+  <sequence>238</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:t1.l</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448383</millis>
+  <sequence>239</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:u</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448384</millis>
+  <sequence>240</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:a</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448386</millis>
+  <sequence>241</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:",</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448387</millis>
+  <sequence>242</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:"w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448389</millis>
+  <sequence>243</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:+</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448392</millis>
+  <sequence>244</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:");</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448394</millis>
+  <sequence>245</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448406</millis>
+  <sequence>246</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w = file.writeline&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448465</millis>
+  <sequence>247</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448466</millis>
+  <sequence>248</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448545</millis>
+  <sequence>249</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448546</millis>
+  <sequence>250</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448548</millis>
+  <sequence>251</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:= </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448550</millis>
+  <sequence>252</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:f</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448551</millis>
+  <sequence>253</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:il</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448553</millis>
+  <sequence>254</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:e</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448555</millis>
+  <sequence>255</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:.wr</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448557</millis>
+  <sequence>256</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:i</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448559</millis>
+  <sequence>257</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:te</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448561</millis>
+  <sequence>258</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:li</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448563</millis>
+  <sequence>259</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:ne</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448566</millis>
+  <sequence>260</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448577</millis>
+  <sequence>261</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w([[let ssid = "Predicting Skill" ]]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448629</millis>
+  <sequence>262</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448631</millis>
+  <sequence>263</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448709</millis>
+  <sequence>264</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448710</millis>
+  <sequence>265</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448711</millis>
+  <sequence>266</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448714</millis>
+  <sequence>267</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[l</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448716</millis>
+  <sequence>268</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:et</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448717</millis>
+  <sequence>269</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: s</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448719</millis>
+  <sequence>270</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:s</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448720</millis>
+  <sequence>271</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:i</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448722</millis>
+  <sequence>272</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:d </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448723</millis>
+  <sequence>273</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:=</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448725</millis>
+  <sequence>274</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: "</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448726</millis>
+  <sequence>275</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:P</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448727</millis>
+  <sequence>276</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:r</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448728</millis>
+  <sequence>277</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:e</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448729</millis>
+  <sequence>278</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:d</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448730</millis>
+  <sequence>279</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:i</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448733</millis>
+  <sequence>280</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:ct</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448734</millis>
+  <sequence>281</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:in</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448735</millis>
+  <sequence>282</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:g</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448737</millis>
+  <sequence>283</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448738</millis>
+  <sequence>284</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:S</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448739</millis>
+  <sequence>285</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:k</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448741</millis>
+  <sequence>286</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:ill</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448742</millis>
+  <sequence>287</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:"</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448744</millis>
+  <sequence>288</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448745</millis>
+  <sequence>289</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448749</millis>
+  <sequence>290</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]);</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448752</millis>
+  <sequence>291</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448763</millis>
+  <sequence>292</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w([[let password = "93949596" ]]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448792</millis>
+  <sequence>293</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448793</millis>
+  <sequence>294</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448872</millis>
+  <sequence>295</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448873</millis>
+  <sequence>296</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448875</millis>
+  <sequence>297</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448877</millis>
+  <sequence>298</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[l</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448878</millis>
+  <sequence>299</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:e</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448879</millis>
+  <sequence>300</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:t</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448881</millis>
+  <sequence>301</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448883</millis>
+  <sequence>302</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:pas</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448887</millis>
+  <sequence>303</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:swo</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448888</millis>
+  <sequence>304</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:rd</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448891</millis>
+  <sequence>305</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: = </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448895</millis>
+  <sequence>306</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:"9</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448897</millis>
+  <sequence>307</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:394</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448902</millis>
+  <sequence>308</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:9596"</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448904</millis>
+  <sequence>309</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: ]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448905</millis>
+  <sequence>310</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448907</millis>
+  <sequence>311</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:);</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448908</millis>
+  <sequence>312</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448911</millis>
+  <sequence>313</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448921</millis>
+  <sequence>314</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w([[ print "SSID:" ]]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448955</millis>
+  <sequence>315</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:28</date>
+  <millis>1442847448957</millis>
+  <sequence>316</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449035</millis>
+  <sequence>317</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449036</millis>
+  <sequence>318</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449038</millis>
+  <sequence>319</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449039</millis>
+  <sequence>320</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449042</millis>
+  <sequence>321</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: pr</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449044</millis>
+  <sequence>322</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:in</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449046</millis>
+  <sequence>323</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:t </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449047</millis>
+  <sequence>324</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:"</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449049</millis>
+  <sequence>325</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:S</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449051</millis>
+  <sequence>326</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:SI</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449053</millis>
+  <sequence>327</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:D:</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449055</millis>
+  <sequence>328</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:" </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449056</millis>
+  <sequence>329</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449058</millis>
+  <sequence>330</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:])</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449060</millis>
+  <sequence>331</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449062</millis>
+  <sequence>332</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449072</millis>
+  <sequence>333</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w([[textbox ssid]]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449118</millis>
+  <sequence>334</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449120</millis>
+  <sequence>335</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449198</millis>
+  <sequence>336</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449200</millis>
+  <sequence>337</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449201</millis>
+  <sequence>338</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449203</millis>
+  <sequence>339</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[t</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449205</millis>
+  <sequence>340</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:ex</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449207</millis>
+  <sequence>341</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:tb</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449208</millis>
+  <sequence>342</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:o</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449210</millis>
+  <sequence>343</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:x </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449211</millis>
+  <sequence>344</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:s</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449212</millis>
+  <sequence>345</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:s</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449214</millis>
+  <sequence>346</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:i</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449215</millis>
+  <sequence>347</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:d]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449218</millis>
+  <sequence>348</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449219</millis>
+  <sequence>349</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:);</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449222</millis>
+  <sequence>350</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449233</millis>
+  <sequence>351</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w([[ print "PASSWORD:" ]]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449281</millis>
+  <sequence>352</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449283</millis>
+  <sequence>353</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449361</millis>
+  <sequence>354</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449363</millis>
+  <sequence>355</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449363</millis>
+  <sequence>356</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449365</millis>
+  <sequence>357</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449366</millis>
+  <sequence>358</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449367</millis>
+  <sequence>359</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:p</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449368</millis>
+  <sequence>360</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:r</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449369</millis>
+  <sequence>361</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:i</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449370</millis>
+  <sequence>362</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:n</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449371</millis>
+  <sequence>363</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:t</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449372</millis>
+  <sequence>364</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449373</millis>
+  <sequence>365</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:"</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449375</millis>
+  <sequence>366</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:P</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449376</millis>
+  <sequence>367</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:A</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449377</millis>
+  <sequence>368</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:S</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449378</millis>
+  <sequence>369</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:SW</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449381</millis>
+  <sequence>370</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:OR</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449383</millis>
+  <sequence>371</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:D:</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449384</millis>
+  <sequence>372</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:"</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449386</millis>
+  <sequence>373</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: ]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449387</millis>
+  <sequence>374</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449388</millis>
+  <sequence>375</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:)</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449389</millis>
+  <sequence>376</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449390</millis>
+  <sequence>377</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449392</millis>
+  <sequence>378</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449401</millis>
+  <sequence>379</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w([[textbox password ]]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449445</millis>
+  <sequence>380</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449446</millis>
+  <sequence>381</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449525</millis>
+  <sequence>382</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449526</millis>
+  <sequence>383</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449527</millis>
+  <sequence>384</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449528</millis>
+  <sequence>385</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449529</millis>
+  <sequence>386</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:t</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449530</millis>
+  <sequence>387</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:e</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449531</millis>
+  <sequence>388</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:x</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449532</millis>
+  <sequence>389</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:t</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449533</millis>
+  <sequence>390</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:b</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449534</millis>
+  <sequence>391</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:o</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449535</millis>
+  <sequence>392</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:x</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449536</millis>
+  <sequence>393</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449538</millis>
+  <sequence>394</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:p</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449539</millis>
+  <sequence>395</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:a</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449540</millis>
+  <sequence>396</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:s</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449540</millis>
+  <sequence>397</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:s</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449541</millis>
+  <sequence>398</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449542</millis>
+  <sequence>399</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:o</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449543</millis>
+  <sequence>400</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:r</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449544</millis>
+  <sequence>401</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:d</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449545</millis>
+  <sequence>402</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449546</millis>
+  <sequence>403</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449548</millis>
+  <sequence>404</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449549</millis>
+  <sequence>405</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:)</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449550</millis>
+  <sequence>406</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449551</millis>
+  <sequence>407</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449553</millis>
+  <sequence>408</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449562</millis>
+  <sequence>409</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w([[ button "Connect" [connect_to_ap] ]]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449608</millis>
+  <sequence>410</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449609</millis>
+  <sequence>411</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449688</millis>
+  <sequence>412</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449689</millis>
+  <sequence>413</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449690</millis>
+  <sequence>414</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449691</millis>
+  <sequence>415</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449692</millis>
+  <sequence>416</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449694</millis>
+  <sequence>417</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:b</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449695</millis>
+  <sequence>418</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:u</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449696</millis>
+  <sequence>419</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:t</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449697</millis>
+  <sequence>420</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:t</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449698</millis>
+  <sequence>421</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:o</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449699</millis>
+  <sequence>422</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:n </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449701</millis>
+  <sequence>423</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:"</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449703</millis>
+  <sequence>424</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:Con</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449706</millis>
+  <sequence>425</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:ne</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449707</millis>
+  <sequence>426</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:c</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449709</millis>
+  <sequence>427</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:t"</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449710</millis>
+  <sequence>428</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449712</millis>
+  <sequence>429</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[c</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449713</millis>
+  <sequence>430</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:o</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449714</millis>
+  <sequence>431</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:n</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449715</millis>
+  <sequence>432</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:n</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449717</millis>
+  <sequence>433</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:ec</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449718</millis>
+  <sequence>434</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:t</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449721</millis>
+  <sequence>435</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:_t</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449723</millis>
+  <sequence>436</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:o_</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449724</millis>
+  <sequence>437</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:a</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449725</millis>
+  <sequence>438</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:p]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449727</millis>
+  <sequence>439</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: ]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449729</millis>
+  <sequence>440</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449730</millis>
+  <sequence>441</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:)</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449731</millis>
+  <sequence>442</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449732</millis>
+  <sequence>443</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449744</millis>
+  <sequence>444</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w([[wait ]]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449771</millis>
+  <sequence>445</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449772</millis>
+  <sequence>446</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449851</millis>
+  <sequence>447</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449852</millis>
+  <sequence>448</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449853</millis>
+  <sequence>449</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449854</millis>
+  <sequence>450</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449855</millis>
+  <sequence>451</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449856</millis>
+  <sequence>452</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:a</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449857</millis>
+  <sequence>453</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:i</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449858</millis>
+  <sequence>454</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:t</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449859</millis>
+  <sequence>455</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449860</millis>
+  <sequence>456</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449861</millis>
+  <sequence>457</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449862</millis>
+  <sequence>458</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:)</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449863</millis>
+  <sequence>459</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449864</millis>
+  <sequence>460</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449865</millis>
+  <sequence>461</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449876</millis>
+  <sequence>462</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w([[]]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449934</millis>
+  <sequence>463</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:29</date>
+  <millis>1442847449935</millis>
+  <sequence>464</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450014</millis>
+  <sequence>465</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450015</millis>
+  <sequence>466</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450016</millis>
+  <sequence>467</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450017</millis>
+  <sequence>468</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450018</millis>
+  <sequence>469</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450019</millis>
+  <sequence>470</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450021</millis>
+  <sequence>471</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:);</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450023</millis>
+  <sequence>472</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450024</millis>
+  <sequence>473</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450033</millis>
+  <sequence>474</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w([[ [connect_to_ap] ]]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450097</millis>
+  <sequence>475</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450098</millis>
+  <sequence>476</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450177</millis>
+  <sequence>477</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450178</millis>
+  <sequence>478</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450179</millis>
+  <sequence>479</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450180</millis>
+  <sequence>480</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450181</millis>
+  <sequence>481</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450182</millis>
+  <sequence>482</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450183</millis>
+  <sequence>483</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:c</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450184</millis>
+  <sequence>484</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:o</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450185</millis>
+  <sequence>485</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:n</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450186</millis>
+  <sequence>486</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:n</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450187</millis>
+  <sequence>487</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:e</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450189</millis>
+  <sequence>488</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:c</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450190</millis>
+  <sequence>489</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:t</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450192</millis>
+  <sequence>490</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:_t</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450193</millis>
+  <sequence>491</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:o</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450195</millis>
+  <sequence>492</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:_a</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450196</millis>
+  <sequence>493</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:p</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450197</millis>
+  <sequence>494</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450198</millis>
+  <sequence>495</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450199</millis>
+  <sequence>496</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450200</millis>
+  <sequence>497</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450202</millis>
+  <sequence>498</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:);</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450204</millis>
+  <sequence>499</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450215</millis>
+  <sequence>500</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w([[connect ssid password ]]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450260</millis>
+  <sequence>501</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450261</millis>
+  <sequence>502</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450340</millis>
+  <sequence>503</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450341</millis>
+  <sequence>504</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450343</millis>
+  <sequence>505</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450345</millis>
+  <sequence>506</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:co</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450348</millis>
+  <sequence>507</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:nn</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450350</millis>
+  <sequence>508</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:ect</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450352</millis>
+  <sequence>509</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450354</millis>
+  <sequence>510</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:ss</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450356</millis>
+  <sequence>511</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:id</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450358</millis>
+  <sequence>512</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: p</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450362</millis>
+  <sequence>513</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:assw</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450365</millis>
+  <sequence>514</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:ord</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450367</millis>
+  <sequence>515</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450368</millis>
+  <sequence>516</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450369</millis>
+  <sequence>517</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:])</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450373</millis>
+  <sequence>518</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450377</millis>
+  <sequence>519</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450389</millis>
+  <sequence>520</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w([[]]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450423</millis>
+  <sequence>521</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450425</millis>
+  <sequence>522</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450503</millis>
+  <sequence>523</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450504</millis>
+  <sequence>524</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450505</millis>
+  <sequence>525</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450506</millis>
+  <sequence>526</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450507</millis>
+  <sequence>527</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450508</millis>
+  <sequence>528</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450509</millis>
+  <sequence>529</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:)</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450510</millis>
+  <sequence>530</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450511</millis>
+  <sequence>531</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450512</millis>
+  <sequence>532</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450523</millis>
+  <sequence>533</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:w([[end]]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450586</millis>
+  <sequence>534</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450587</millis>
+  <sequence>535</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450666</millis>
+  <sequence>536</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450667</millis>
+  <sequence>537</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450668</millis>
+  <sequence>538</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450669</millis>
+  <sequence>539</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:[</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450670</millis>
+  <sequence>540</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:e</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450671</millis>
+  <sequence>541</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:n</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450672</millis>
+  <sequence>542</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:d</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450673</millis>
+  <sequence>543</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450674</millis>
+  <sequence>544</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:]</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450675</millis>
+  <sequence>545</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:)</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450676</millis>
+  <sequence>546</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450678</millis>
+  <sequence>547</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450679</millis>
+  <sequence>548</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450688</millis>
+  <sequence>549</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:file.close();&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450749</millis>
+  <sequence>550</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450750</millis>
+  <sequence>551</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450829</millis>
+  <sequence>552</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:f</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450830</millis>
+  <sequence>553</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:i</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450831</millis>
+  <sequence>554</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:l</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450832</millis>
+  <sequence>555</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:e</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450833</millis>
+  <sequence>556</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:.</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450834</millis>
+  <sequence>557</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:c</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450835</millis>
+  <sequence>558</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:l</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450837</millis>
+  <sequence>559</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:o</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450838</millis>
+  <sequence>560</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:s</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450839</millis>
+  <sequence>561</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:e</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450840</millis>
+  <sequence>562</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450841</millis>
+  <sequence>563</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:)</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450842</millis>
+  <sequence>564</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450843</millis>
+  <sequence>565</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450844</millis>
+  <sequence>566</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450854</millis>
+  <sequence>567</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:dofile("script1.lua");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450916</millis>
+  <sequence>568</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450917</millis>
+  <sequence>569</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450996</millis>
+  <sequence>570</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:d</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:30</date>
+  <millis>1442847450998</millis>
+  <sequence>571</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:o</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451000</millis>
+  <sequence>572</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:fi</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451002</millis>
+  <sequence>573</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:le</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451003</millis>
+  <sequence>574</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:(</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451005</millis>
+  <sequence>575</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:"s</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451006</millis>
+  <sequence>576</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:c</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451007</millis>
+  <sequence>577</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:r</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451008</millis>
+  <sequence>578</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:i</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451011</millis>
+  <sequence>579</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:pt</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451012</millis>
+  <sequence>580</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:1</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451013</millis>
+  <sequence>581</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:.</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451014</millis>
+  <sequence>582</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:l</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451015</millis>
+  <sequence>583</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:u</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451016</millis>
+  <sequence>584</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:a"</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451017</millis>
+  <sequence>585</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:)</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451018</millis>
+  <sequence>586</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>recv:;</message>
+</record>
+<record>
+  <date>2015-09-21T21:57:31</date>
+  <millis>1442847451047</millis>
+  <sequence>587</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>Operation done. Duration = 2962 ms</message>
+</record>
+<record>
+  <date>2015-09-21T21:59:26</date>
+  <millis>1442847566506</millis>
+  <sequence>588</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:dofile('script1.lua')&lt;CR&gt;&lt;LF&gt;</message>
+</record>

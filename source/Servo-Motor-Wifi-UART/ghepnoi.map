@@ -1,0 +1,30 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+rx_buffer                                                         0x0185       8
+tx_buffer                                                         0x018D       8
+AP                                                                0x0195      15
+STA                                                               0x01A4      15
+l_sta                                                             0x01B3       2
+cmd                                                               0x01B5       6
+_base_y                                                           0x01BB       4
+_lcd_x                                                            0x01BF       1
+_lcd_y                                                            0x01C0       1
+_lcd_maxx                                                         0x01C1       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+rx_wr_index                                                       R5           1
+rx_rd_index                                                       R4           1
+rx_counter                                                        R7           1
+rx_buffer_overflow                                                R2.0      1bit
+tx_wr_index                                                       R6           1
+tx_rd_index                                                       R9           1
+tx_counter                                                        R8           1
+i                                                                 R10,R11      2
+l_ap                                                              R12,R13      2
